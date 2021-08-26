@@ -17,6 +17,8 @@ During that course, I learned :
 
   * Memory Management
 
-  * File Management 
+  * File Management
+  
+  * Basics of Virtual Memory 
 
 The course's site is private so I am linking it's page in my school's site : https://www.ece.ntua.gr/en/undergraduate/courses/3136
